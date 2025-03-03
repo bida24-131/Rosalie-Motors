@@ -64,7 +64,7 @@ margin: 20px auto;
       border-radius: 8px;
     }
     footer {
-background-color: rgba(34, 34, 34, 0.8); /* Semi-transparent background */
+background-color: rgba(34, 34, 34, 0.8);
       color: #A9A9A9;
       text-align: center;
       padding: 10px;
@@ -73,14 +73,13 @@ background-color: rgba(34, 34, 34, 0.8); /* Semi-transparent background */
       width: 100%;
     }
 .image-container {
-    text-align: center; /* Optional: Centers the images horizontally */
-}
+    text-align: center; 
 
 .image-container img {
     display: inline-block;
-    margin: 0 10px; /* Optional: Adds space between images */
+    margin: 0 10px; 
 } 
 .my-image {
-    width: 300px;
-    height: auto; /* Maintains aspect ratio */
+    width: 150px;
+    height: auto; 
 }
