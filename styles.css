@@ -80,3 +80,7 @@ background-color: rgba(34, 34, 34, 0.8); /* Semi-transparent background */
     display: inline-block;
     margin: 0 10px; /* Optional: Adds space between images */
 } 
+.my-image {
+    width: 300px;
+    height: auto; /* Maintains aspect ratio */
+}
