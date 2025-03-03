@@ -83,3 +83,11 @@ background-color: rgba(34, 34, 34, 0.8);
     width: 150px;
     height: 150px; 
 }
+ p {
+        color: white; 
+        font-size: 20px; 
+        font-family: Karla, sans-serif; 
+        line-height: 1.6; 
+        text-align: left; 
+        margin-bottom: 20px; 
+ }
