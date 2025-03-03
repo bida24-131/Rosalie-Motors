@@ -72,4 +72,11 @@ background-color: rgba(34, 34, 34, 0.8); /* Semi-transparent background */
       bottom: 0;
       width: 100%;
     }
- 
+.image-container {
+    text-align: center; /* Optional: Centers the images horizontally */
+}
+
+.image-container img {
+    display: inline-block;
+    margin: 0 10px; /* Optional: Adds space between images */
+} 
