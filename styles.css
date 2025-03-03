@@ -7,8 +7,7 @@
       background-position: center;
       background-attachment: fixed;
       color: #fff;
-      opacity: 1;
-    transition: opacity 0.5s ease-in-out;
+      
     }
         p {
         color: white; 
@@ -93,6 +92,4 @@ background-color: rgba(34, 34, 34, 0.8);
         text-align: left; 
         margin-bottom: 20px; 
  }
-body.fade-out {
-    opacity: 0;
-}
+
