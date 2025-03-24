@@ -31,7 +31,12 @@
       top: 0;
       z-index: 1000;  
      form {
-      
+      max-width: 400px;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background-color: #f9f9f9;
+      font-family: Aral, sans-serif;
   }
     nav {
       display: flex;
