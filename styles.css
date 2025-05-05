@@ -115,16 +115,12 @@ h1 {
         text-align: center; 
         margin-bottom: 20px; 
  }
-.image-with-caption {
+.img {
         position: relative;
         width: 400px;
         margin: 20px;
     }
     
-    .image-with-caption img {
-        width: 100%;
-        display: block;
-    }
     
     .caption {
         position: absolute;
