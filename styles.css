@@ -93,7 +93,7 @@ h1 {
     margin-bottom: 15px;
   }
    .image-with-caption img {
-    width: 300px;
+    width: 45%;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
