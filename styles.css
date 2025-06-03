@@ -39,7 +39,7 @@
     nav {
       display: flex;
       justify-content: center;
-      background-color: rgba(68, 68, 68, 0.8); /* Semi-transparent background */
+      background-color: rgba(68, 68, 68, 0.8); 
       padding: 10px;
     }
     nav a {
